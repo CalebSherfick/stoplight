@@ -1,0 +1,44 @@
+body {
+margin-left: 40%;
+}
+
+.pole {
+background-color: dimgray;
+height: 120px;
+width: 70px;
+margin-left: 55px;
+}
+
+.base {
+background-color: dimgray;
+height: 500px;
+width: 180px;
+}
+
+.red {
+background-color: red;
+height: 150px;
+width:150px;
+border-radius: 50%;
+margin-left: 15px;
+
+}
+
+.yellow {
+background-color: yellow;
+height: 150px;
+width:150px;
+border-radius: 50%;
+margin-left: 15px;
+margin-top: 12.5px;
+margin-bottom: 12.5px;
+}
+
+.green {
+background-color: green;
+height: 150px;
+width:150px;
+border-radius: 50%;
+margin-left: 15px;
+margin-bottom: 12.5px;
+}
